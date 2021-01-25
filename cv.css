@@ -22,8 +22,8 @@ body { margin-left: 200px; margin-right:200px; margin-top: 30px; border: 1px sol
 .comp { font-size: 21px; font-weight: bold; font-style: italic; margin-bottom:3px; text-align: center;}
 .info { font-size: 19px; padding-left: 10px; }
 .info1 { font-size: 19px; padding-left: 10px; margin-top: 10px;}
-.maths { font-size: 14px; }
-.maths1 { font-size: 14px; margin-top: 10px; }
+.maths { font-size: 18px; padding-left: 10px; }
+.maths1 { font-size: 18px; margin-top: 10px; padding-left: 10px;}
 
 
 
