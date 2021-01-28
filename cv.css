@@ -7,8 +7,12 @@ body {height:1000px; width: 707px; margin: auto;}
 .colonne1 { background-color: dimgray; color: white; font-size: 15px;
 			width: 28%; height: 1000px;}
 
-.comp { font-size: 21px; font-weight: bold; margin-bottom:3px; text-align: center;}
-.info { font-size: 19px; padding-left: 10px; }
+.comp { font-size: 21px; font-weight: bold; margin-bottom:18px; text-align: center;}
+
+
+.box { display: flex;}
+
+.info { font-size: 19px; padding-left: 10px; margin-top:10px; }
 .info1 { font-size: 19px; padding-left: 10px; margin-top: 10px;}
 .maths { font-size: 18px; padding-left: 10px; }
 .maths1 { font-size: 18px; margin-top: 10px; padding-left: 10px;}
