@@ -26,7 +26,7 @@ body {height:1000px; width: 707px; margin: auto;}
 .colonne2 { width: 69%; height: 1000px;}
 
 .float { z-index: 1; margin-top: 20px; margin-bottom: 20px; margin-left: 20px; color: white; text-align: right;  
-	     font-size: 45px; font-weight: bold; background-color: crimson; font:serif; width: 477px; 
+	     font-size: 45px; font-weight: bold; background-color: crimson; font:serif; width: 482px; 
 	     padding-right: 0px ; padding-top: 3px ; padding-bottom: 5px;}
 
 .perso { display: flex; float: right; justify-content: space-between; font-size:15px; 
