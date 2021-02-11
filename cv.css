@@ -1,57 +1,42 @@
 body {height:1000px; width: 707px; margin: auto;}
 
 .conteneur { display: flex; width: 100%; height: 100%; z-index: 2; margin-top: 25px; border: 0.5px solid black;}
-
 .colonne0 { background-color: crimson; width: 1%; height: 1000px; }
+
 
 .colonne1 { background-color: dimgray; color: white; font-size: 15px;
          width: 28%; height: 1000px;}
 
+.profil{border-radius: 50% 0% / 50% 0%;}
+
 .comp { font-size: 21px; font-weight: bold; margin-bottom:3px; text-align: center;}
-.info { font-size: 19px; padding-left: 10px; }
-.info1 { font-size: 19px; padding-left: 10px; margin-top: 10px;}
-.maths { font-size: 18px; padding-left: 10px; }
-.maths1 { font-size: 18px; margin-top: 10px; padding-left: 10px;}
 
-.etoile {text-align: right}
+.info { font-size: 19px; padding-left: 2px; margin-bottom:10px;}
+.info1 { font-size: 19px; padding-left: 2px; margin-top: 18px; margin-bottom:10px;}
+.score {border: 2px solid white; border-radius:25px; padding-left:2px; padding-right:2px;}
 
-.score {vertical-align: middle;}
+.maths { font-size: 17px; padding-left: 2px; }
+.maths1 { font-size: 17px; margin-top: 10px; padding-left: 2px;}
+
+.cdi{font-size: 17px; font-weight: bold; margin-bottom:3px; text-align: center;}
+.cdi2 { font-size: 12.5px; padding-left: 2px; }
+.cdi1 { font-size: 12.5px; margin-top: 10px; padding-left: 2px;}
 
 
 .colonne2 { width: 69%; height: 1000px;}
 
-.float { z-index: 1; margin-top: 20px; margin-bottom: 15px; margin-left: 25px;
-       color: white; text-align: right;  font-size: 45px; font-weight: bold; 
-       background-color: crimson; font:serif;
-       width: 477px; padding-right: 0px ; padding-top: 3px ; padding-bottom: 5px;}
+.float { z-index: 1; margin-top: 20px; margin-bottom: 20px; margin-left: 20px; color: white; text-align: right;  
+	     font-size: 45px; font-weight: bold; background-color: crimson; font:serif; width: 477px; 
+	     padding-right: 0px ; padding-top: 3px ; padding-bottom: 5px;}
 
 .perso { display: flex; float: right; justify-content: space-between; font-size:15px; 
-        width: 420px; margin-right:3px;}
+         width: 420px; margin-right:3px;}
+.git {vertical-align: middle; margin-left: 15px;}
+.lin {vertical-align: middle; margin-left: 2px;}
+.tel {vertical-align: middle; margin-left: 3px}
+.mail {border-radius:5px; margin-bottom:4px; vertical-align: middle;}
 
 .titre { font-size: 25px; color: crimson; font-weight: bold; padding-left: 20px;}
 .exp { font-size: 17px; font-weight: bold; padding-left: 20px;}
 .orga { font-size: 17px; padding-left: 20px;}
-.ac { font-size: 12px; color: dimgray; padding-left: 20px;}
-
-
-.git {vertical-align: middle; margin-left: 15px;}
-.lin {vertical-align: middle; margin-left: 2px;}
-
-
-.tel {vertical-align: middle; margin-left: 3px}
-.mail {border-radius:5px; margin-bottom:4px; vertical-align: middle;}
-
-
-.rating a {
-   color: #aaa;
-   text-decoration: none;
-   font-size: 3em;
-   transition: color .4s;
-}
-.rating a:hover,
-.rating a:focus {
-   color: orange;
-   cursor: pointer;
-}
-
-.profil{border-radius: 50% 0% / 50% 0%;}
+.ac { font-size: 13px; color: dimgray; padding-left: 35px;}
