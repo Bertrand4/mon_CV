@@ -15,12 +15,12 @@ body {height:1000px; width: 707px; margin: auto;}
 .info1 { font-size: 19px; padding-left: 2px; margin-top: 18px; margin-bottom:10px;}
 .score {border: 2px solid white; border-radius:25px; padding-left:2px; padding-right:2px;}
 
-.maths { font-size: 17px; padding-left: 2px; }
-.maths1 { font-size: 17px; margin-top: 10px; padding-left: 2px;}
+.maths { font-size: 16px; padding-left: 2px; }
+.maths1 { font-size: 16px; margin-top: 10px; padding-left: 2px;}
 
-.cdi{font-size: 17px; font-weight: bold; margin-bottom:3px; text-align: center;}
-.cdi2 { font-size: 12.5px; padding-left: 2px; }
-.cdi1 { font-size: 12.5px; margin-top: 10px; padding-left: 2px;}
+.cdi{font-size: 18px; font-weight: bold; margin-bottom:3px; text-align: center;}
+.cdi2 { font-size: 15px; padding-left: 2px; }
+.cdi1 { font-size: 15px; margin-top: 10px; padding-left: 2px;}
 
 
 .colonne2 { width: 69%; height: 1000px;}
