@@ -6,24 +6,25 @@ body {height:1000px; width: 707px; margin: auto;}
 
 
 .colonne1 { background-color: dimgray; color: white; font-size: 15px;
-            width: 30%; height: 100%; padding-left: 1px}
+            width: 28%; height: 100%;}
 
 .profil { border-radius: 50% 0% / 50% 0%; padding-left:-1px;}
-.comp { font-size: 21px; font-weight: bold; margin-bottom:1px; text-align: center; padding-left:-1px;}
 
-.informatique {width:98%; margin-right:2px; font-size:18px; margin-top:8px;}
-.maths { font-size: 18px; padding-left: 2px; }
-.maths1 { font-size: 18px; margin-top: 10px; padding-left: 2px;}
-.cdi{font-size: 19px; font-weight: bold; margin-bottom:3px; text-align: center;}
-.cdi2 { font-size: 18px; padding-left: 2px; }
-.cdi1 { font-size: 18px; margin-top: 10px; padding-left: 2px;}
+.comp { font-size: 21px; font-weight: bold; margin-bottom:1px; text-align: center}
+
+.informatique {width:98%; margin-right:2px; font-size:16px; margin-top:8px; margin-left:2px;}
+.maths { font-size: 16px; padding-left: 4px; }
+.maths1 { font-size: 16px; margin-top: 10px; padding-left: 4px;}
+.cdi{font-size: 17px; font-weight: bold; margin-bottom:3px; text-align: center}
+.cdi2 { font-size: 16px; padding-left: 4px; }
+.cdi1 { font-size: 16px; margin-top: 10px; padding-left: 4px;}
 
 
 
-.colonne2 { width: 67%; height: 100%;}
+.colonne2 { width: 69%; height: 100%;}
 
 .float { color: white; text-align: right; font-size: 45px; font-weight: bold; background-color: crimson; 
-	     width: 468px; margin: 20px 0 20px 20px; padding: 3px 0 5px 0}
+	     width: 482px; margin: 20px 0 20px 20px; padding: 3px 0 5px 0}
 
 .perso { display: flex; float: right; justify-content: space-between; 
 	     font-size:15px; width: 420px; margin-right:3px;}
@@ -32,7 +33,7 @@ body {height:1000px; width: 707px; margin: auto;}
 .tel {vertical-align: middle; margin-left: 3px}
 .mail {border-radius:5px; margin-bottom:4px; vertical-align: middle;}
 
-.titre { font-size: 25px; color: crimson; font-weight: bold; padding-left: 20px;}
+.titre { font-size: 23px; color: crimson; font-weight: bold; padding-left: 20px;}
 .exp { font-size: 18px; font-weight: bold; padding-left: 20px;}
 .orga { font-size: 17px; padding-left: 20px;}
 .ac { font-size: 13px; color: dimgray; padding-left: 20px;}
