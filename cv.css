@@ -1,4 +1,4 @@
-body {height:1000px; width: 707px; margin: auto;}
+body {height:1010px; width: 707px; margin: auto;}
 
 .conteneur { display: flex; width: 100%; height: 100%; z-index: 2; margin-top: 25px; border: 0.5px solid black;}
 .colonne0 { background-color: crimson; width: 1%; height: 100%; }
@@ -15,7 +15,7 @@ body {height:1000px; width: 707px; margin: auto;}
 .informatique {width:98%; margin-right:2px; font-size:16px; margin-top:8px; margin-left:2px;}
 .maths { font-size: 16px; padding-left: 4px; }
 .maths1 { font-size: 16px; margin-top: 10px; padding-left: 4px;}
-.cdi{font-size: 17px; font-weight: bold; margin-bottom:3px; text-align: center}
+.cdi{font-size: 18px; font-weight: bold; margin-bottom:3px; text-align: center}
 .cdi2 { font-size: 16px; padding-left: 4px; }
 .cdi1 { font-size: 16px; margin-top: 10px; padding-left: 4px;}
 
